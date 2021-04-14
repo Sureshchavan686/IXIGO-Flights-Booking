@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64522" started-at="2021-04-14T05:13:46Z" finished-at="2021-04-14T05:14:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64522" started-at="2021-04-14T05:13:46Z" finished-at="2021-04-14T05:14:51Z">
+      <class name="TestCases.SearchFlights">
+        <test-method status="PASS" signature="searchFlights()[pri:0, instance:TestCases.SearchFlights@4501b7af]" name="searchFlights" duration-ms="64491" started-at="2021-04-14T05:13:46Z" finished-at="2021-04-14T05:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFlights -->
+      </class> <!-- TestCases.SearchFlights -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
