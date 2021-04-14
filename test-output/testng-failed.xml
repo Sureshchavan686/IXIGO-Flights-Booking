@@ -5,6 +5,7 @@
     <classes>
       <class name="TestCases.SearchFlights">
         <methods>
+          <include name="teardown"/>
           <include name="searchFlights"/>
         </methods>
       </class> <!-- TestCases.SearchFlights -->
