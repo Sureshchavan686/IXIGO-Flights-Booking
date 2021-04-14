@@ -144,6 +144,7 @@ public class SearchFlightPOM extends BaseLibrary{
 		boolean filterDisplayed = msg_filter.isDisplayed();
 		System.out.println("Filter selected: "+filterDisplayed);
 		
+		
 	}
 	
 	public void getFaredetails()
