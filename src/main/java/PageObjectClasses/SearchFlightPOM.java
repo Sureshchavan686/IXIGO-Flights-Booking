@@ -83,7 +83,7 @@ public class SearchFlightPOM extends BaseLibrary{
 	@FindBy(xpath = "//div[@class='u-text-ellipsis']")
 	public static List<WebElement> flightNames;*/
 	
-	@FindBy(xpath = "//div[@class='c-price-display u-text-ellipsis ']")
+	@FindBy(xpath = " ")
 	public static List<WebElement> flightPrices;
 	
 	
